@@ -232,5 +232,3 @@ Answer: I learned that R uses different data types, such as numeric, character, 
 
 
 
-
-
