@@ -1,5 +1,5 @@
 ---
-title: "R_excercise_2"
+title: "R_exercise_2"
 author: "Giann Phylip Barranco"
 date: "2026-09-30"
 output: html_document
